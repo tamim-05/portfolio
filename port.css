@@ -1,0 +1,323 @@
+.header{
+background-color: rgb(59, 3, 111);
+color: azure;
+font-family: Arial, Helvetica, sans-serif;
+text-decoration: solid;
+font-size: 25px;
+font-weight: 600;
+}
+.headerrow{
+display: flex;
+}
+.headcol1{
+padding: 10px;
+margin-left: 120px;
+margin-top: 25px;
+}
+.headcol2{
+padding:10px ;
+margin-left: 1500px;
+}
+.headcol2 ul{
+    display: flex;
+    list-style:none;
+
+}
+.headcol2 ul li{
+   padding-left: 20px;
+   padding-right: 20px;
+}
+
+.intro{
+   padding: 10px;
+   font-size: 40px;
+   text-align: center;
+   background-color: rgb(214, 217, 219);
+   padding-bottom: 100px;
+}
+.intro h1{
+   color: rgb(59, 3, 111);
+   
+}
+.intro h4{
+
+}
+.intro h2{
+
+}
+.intro p{
+
+}
+.intro ul{
+   display: flex;
+   list-style: none;
+   justify-content: center;
+   gap: 30px;
+}
+.intro ul li{
+
+}
+.about{
+   font-family: Arial, Helvetica, sans-serif ;
+   padding-top: 30px;
+   padding-bottom: 100px;
+}
+.about h1{
+   font-size: 80px;
+   
+}
+.aboutsash{
+   background-color: rgb(59, 3, 111);
+   width: 150px;
+   height: 8px;
+   border-radius: 5px;
+}
+.aboutrow{
+   display: flex;
+}
+.aboutcol1{
+   width: 50%;
+   font-size: 55px;
+   padding-left: 50px;
+   padding-right: 50px;
+   padding-top: 80px;
+   margin-right: 90px;
+   
+   
+}
+.aboutcol1 {
+   
+}
+.aboutcol2{
+   width: 50%;
+   
+}
+.aboutsubcol1{
+   display: flex;
+   gap: 70px;
+   padding: 50px;
+}
+.aboutsubcol2{
+   display: flex;
+   gap: 70px;
+   padding: 50px;
+}
+.aboutsubcolcontent{
+   padding: 40px;
+   font-size: 30px;
+   width: 500px;
+   height: 205px;
+   background-color: rgb(214, 217, 219);
+   gap: 20px;
+   border-radius: 20px;
+}
+.aboutsubcolcontent i{
+   color: rgb(59, 3, 111);
+   font-size: 50px;
+}
+
+.skill{
+   font-family: Arial, Helvetica, sans-serif ;
+   background-color: rgb(214, 217, 219);
+   padding-top: 30px;
+   padding-bottom: 100px;
+}
+.skill h1{
+   font-size: 80px;
+   
+}
+.skillsash{
+   background-color: rgb(59, 3, 111);
+   width: 150px;
+   height: 8px;
+   border-radius: 5px;
+}
+.skillrow{
+     font-size:30px ;
+}
+.skillcol1{
+     display: flex;
+     justify-content: center;
+     
+}
+.skillsubcol1{
+    background-color: azure;
+    border-radius: 20px;
+    width: 800px;
+    height: 300px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    border: 5px solid rgba(0, 0, 0, 0.48);
+}
+.skillsubcol1 h2{
+   margin-left: 35px;
+}
+.skillcol2{
+    display: flex;
+    justify-content: center;
+}
+.skillsubcol2{
+   background-color: azure;
+   border-radius: 20px;
+    width: 800px;
+    height: 300px;
+    margin-right: 20px;
+    border: 5px solid rgba(0, 0, 0, 0.48);
+}
+.skillsubcol2 h2{
+   margin-left: 35px;
+}
+.skillsubcolcontent{
+    margin-left: -px;
+}
+.skillsubcolcontent ul{
+    display: flex;
+    list-style: none;
+}
+.skillsubcolcontent ul li{
+    display: flex;
+    padding-right: 10px;
+    color: rgb(59, 3, 111);
+    background-color: rgba(59, 3, 111, 0.228);
+    padding: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+.work{
+   font-family: Arial, Helvetica, sans-serif ;
+   padding-top: 30px;
+   padding-bottom: 100px;
+}
+.work h1{
+   font-size: 80px;
+   
+}
+.worksash{
+   background-color: rgb(59, 3, 111);
+   width: 150px;
+   height: 8px;
+   border-radius: 5px;
+}
+.workrow{
+   display: flex;
+   background-color: rgb(214, 217, 219);
+   
+}
+.workcol1{
+   width: 50%;
+}
+.workcol1 h1{
+  font-size: 50px;
+}
+.workcol1 h4{
+  font-size: 35px;
+  color: rgb(59, 3, 111);
+}
+.workcol1 ul{
+   list-style: none;
+   margin-left: -40px;
+}
+.workcol1 ul li{
+   font-size: 25px;
+   margin-bottom: 9px;
+}
+.workcol1 i{
+   color: rgb(59, 3, 111);
+}
+.workcol2{
+ 
+}
+.workcol2 p{
+  margin-left: 800px;
+  margin-top: 50px;
+  font-size: x-large;
+  width: 50%;
+  margin-right: 0px;
+  padding-right: -500px;
+}
+.workcol2 p i{
+
+}
+
+.edu{
+   font-family: Arial, Helvetica, sans-serif ;
+   padding-top: 30px;
+   padding-bottom: 100px;
+}
+.edu h1{
+   font-size: 80px;
+   
+}
+.edusash{
+   background-color: rgb(59, 3, 111);
+   width: 150px;
+   height: 8px;
+   border-radius: 5px;
+}
+.educol{
+   
+}
+.educol ul{
+   display: flex;
+   list-style: none;
+   background-color: rgb(214, 217, 219);
+   width: 60%;
+   margin-left: 20%;
+}
+.educol ul li{
+   
+}
+.educol ul li i{
+   font-size: 30px;
+   width: 45px;
+   height: 45px;
+  color: rgb(59, 3, 111);
+  background-color: rgba(59, 3, 111, 0.228);
+  border-radius: 50px;
+  margin-top: 25px;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 10px;
+}
+.educol ul li h1{
+  font-size: 40px;
+  margin-bottom: 30px;
+}
+.educol ul li h3{
+   font-size: 30px;
+}
+.educol ul li h6{
+   margin-top: -15px;
+   font-size: 30px;
+}
+.edulic1{
+   font-size: 30px;
+   margin-left: 30%;
+   margin-top: 40px;
+   color: rgb(59, 3, 111);
+   background-color: rgba(59, 3, 111, 0.228);
+   padding: 10px;
+   height: 40px;
+   border-radius: 15px;
+}
+.edulic2{
+   font-size: 30px;
+   margin-left: 50%;
+   margin-top: 40px;
+   color: rgb(59, 3, 111);
+   background-color: rgba(59, 3, 111, 0.228);
+   padding: 10px;
+   height: 40px;
+   border-radius: 15px;
+}
+.edulic3{
+   font-size: 30px;
+   margin-left: 50%;
+   margin-top: 40px;
+   color: rgb(59, 3, 111);
+   background-color: rgba(59, 3, 111, 0.228);
+   padding: 10px;
+   height: 40px;
+   border-radius: 15px;
+}
